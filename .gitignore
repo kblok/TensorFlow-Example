@@ -101,4 +101,4 @@ ENV/
 .mypy_cache/
 .vscode/*.*
 cifar10/
-logs/*.*
+logs/
